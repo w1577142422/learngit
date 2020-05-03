@@ -1,0 +1,26 @@
+body{
+    overflow-x: hidden;
+}
+a{
+    color: block;
+    text-decoration: none;
+}
+.nav{
+    background-color: #434750;
+}
+.nav .welcome{
+    font-size: 16px;
+    color: #BEBDB8;
+    line-height: 40px;  
+}
+.nav a{
+    color: white;
+}
+#space{
+    margin-left: 20px; 
+    margin-top: 20px;
+}
+.footer{
+    background-color: #434750; 
+    color: #BEBDB8;
+}

@@ -1,0 +1,44 @@
+{
+  "id": "1757945",
+  "name": "..",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "1240740",
+      "name": "笔",
+      "font_class": "bi",
+      "unicode": "e608",
+      "unicode_decimal": 58888
+    },
+    {
+      "icon_id": "401192",
+      "name": "twitter",
+      "font_class": "twitter",
+      "unicode": "e89d",
+      "unicode_decimal": 59549
+    },
+    {
+      "icon_id": "1048897",
+      "name": "Facebook",
+      "font_class": "icon_facebook",
+      "unicode": "e632",
+      "unicode_decimal": 58930
+    },
+    {
+      "icon_id": "1080583",
+      "name": "ins",
+      "font_class": "ins",
+      "unicode": "e639",
+      "unicode_decimal": 58937
+    },
+    {
+      "icon_id": "7275151",
+      "name": "email (Filled)",
+      "font_class": "emailFilled",
+      "unicode": "e647",
+      "unicode_decimal": 58951
+    }
+  ]
+}
